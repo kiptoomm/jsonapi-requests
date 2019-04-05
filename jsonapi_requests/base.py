@@ -1,3 +1,4 @@
+from __future__ import annotations
 from jsonapi_requests import configuration
 from jsonapi_requests import request_factory
 
